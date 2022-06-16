@@ -1,0 +1,25 @@
+<HTML>
+<HEAD> <TITLE> Persona Series </TITLE></HEAD>
+
+<BODY>
+<table border>
+<TR>
+<TD> Persona 1 
+<center><a href="MotE.html"><img src="51IdXWQz6mL._AC_SX385_.jpg" border="1" alt="FE3"></a></center></TD>
+<TD> Persona 2: Innocent Sin
+<center><a href="GotHW.html"><img src="51UTQTqkPaL._AC_.jpg" border="1" alt="FE4"></a></center></TD>
+<TD> Persona 2: Eternal Punishment 
+<center><a href="Thracia.html"><img src="71Gx3aRMDdL._SL1500_.jpg" border="1" alt="FE5"></a></center></TD>
+</TR>
+<TR>
+<TD> Persona 3 
+<center><a href="Binding Blade.html"><img src="81Ud20BB62L._SL1500_.jpg" border="1" alt="FE6"></a></center></TD>
+<TD> Persona 4 
+<center><a href="Blazing Blade.html"><img src="240.jpg" border="1" alt="FE7"></a></center></TD>
+<TD> Persona 5
+<center><a href="SacredStones.html"><img src="persona_3-1685342.jpg" border="1" alt="FE8"></a></center></TD>
+<br>
+</TR>
+</table>
+</BODY>
+</HTML>
